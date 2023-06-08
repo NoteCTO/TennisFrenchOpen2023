@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1shv3Cnd7x47ERwz4h-NYWxKRqnzS5yH9
 """
 
-!pip install easyocr
+#!pip install easyocr
 
 import easyocr
 reader = easyocr.Reader(['ch_sim','en']) # this needs to run only once to load the model into memory

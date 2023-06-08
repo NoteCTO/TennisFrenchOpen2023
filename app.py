@@ -9,17 +9,17 @@ Original file is located at
 
 #!pip install easyocr
 
-import easyocr
+#import easyocr
 reader = easyocr.Reader(['ch_sim','en']) # this needs to run only once to load the model into memory
 
-from google.colab import drive
+#from google.colab import drive
 drive.mount('/content/drive')
 
 # Importing all necessary libraries
-import cv2
-import os
-import moviepy.video.io.ImageSequenceClip
-import re
+#import cv2
+#import os
+#import moviepy.video.io.ImageSequenceClip
+#import re
 
 from PIL import Image, ImageFont, ImageDraw
 

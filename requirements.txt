@@ -1,5 +1,1 @@
 easyocr
-moviepy.video.io.ImageSequenceClip
-re
-PIL
-google.colab

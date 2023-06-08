@@ -297,4 +297,4 @@ TestId = 0
 
 # NOTE_Task6OCR_Test_Get_Result(imagelocationdirectory, TestId)
 
-!pip install opencv-wrapper
+#!pip install opencv-wrapper
